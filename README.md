@@ -84,6 +84,7 @@ https://user-images.githubusercontent.com/50399088/219535817-deaba5c0-6cb9-4af5-
 
 
 <br/>
+
 ## 👨‍👩‍👧‍👦 About Team 1E5I
 
 | [강효진](https://github.com/KangHyojin1401) | [안태윤](https://github.com/anTuni)|  [이혜지](https://github.com/leehyeji319) | [김영식](https://github.com/zer0eat) | [정세권](https://github.com/jjungsk) |[임성준](https://github.com/sssungjooon)|
