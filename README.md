@@ -90,7 +90,7 @@ https://user-images.githubusercontent.com/50399088/219535817-deaba5c0-6cb9-4af5-
 | [강효진](https://github.com/KangHyojin1401) | [안태윤](https://github.com/anTuni)|  [이혜지](https://github.com/leehyeji319) | [김영식](https://github.com/zer0eat) | [정세권](https://github.com/jjungsk) |[임성준](https://github.com/sssungjooon)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="https://avatars.githubusercontent.com/u/67770370?v=4" width=200px alt="_"/>|<img width=200px src="https://avatars.githubusercontent.com/u/62320492?v=4" alt="_"/>|<img src="https://user-images.githubusercontent.com/50399088/162911631-0556ac60-8d1d-470f-aaec-c506d0ce7a08.png" width=200px alt="_"/>|<img src="https://avatars.githubusercontent.com/u/109324459?v=4" width=200px alt="_"/>|<img src="https://avatars.githubusercontent.com/u/85625910?v=4" width=200px alt="_"/> |<img src="https://avatars.githubusercontent.com/u/109324552?v=4" width=200px alt="_"/>|
-| `Back-end` | `Back-end` | `Back-end` |`Front-end` | `Front-end` | `Front-end` |
+| `Back-end` | `Back-end` | 팀장 `Back-end` |`Front-end` | `Front-end` | `Front-end` |
 
 <br/>
 
